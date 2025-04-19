@@ -3,9 +3,9 @@
 include 'db.php';
 
 // Define the values to update
-$targetEmail = "secureuser@example.com"; // Email of the user to update
-$newName = "Updated User";               // New name
-$newEmail = "updateduser@example.com";   // New email
+$targetEmail = "randyuser@example.com"; // Email of the user to update
+$newName = "Randall User";               // New name
+$newEmail = "Randall@example.com";   // New email
 $newCreatedAt = "2025-04-19 00:00:00";   // New registration date
 
 // Prepare the update query
